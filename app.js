@@ -1,4 +1,5 @@
-const baseURL = "http://localhost:8081/produtos";
+// URL do backend na Azure
+const baseURL = "https://bootcamp-produtos-thymos.azurewebsites.net/produtos";
 
 const productForm = document.getElementById("productForm");
 const productTable = document.getElementById("productTable");
